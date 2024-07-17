@@ -1,3 +1,5 @@
+VARIABLE
+
 //The meaning of keyword const is once declared it cannot be changed
 // try to change the value of accountId
 const accountId=12345
@@ -15,3 +17,21 @@ accountCity="Mumbai"
 console.log(accountId)
 console.table([accountId,accountusname,accountpass])
 <!-- when a variable is not defined its value is printed as undefined on the console -->
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DATATYPE
+
+"use strict;" //use new code as new js version
+
+alert(3+3) //this is for browser not for node.js
+
+<!-- the main thing in coding is readability -->
+console.log("rae"); console.log("hi")
+//this isnt the right way to write
+
+<!-- this is the right way -->
+console.log("rae")
+ console.log("hi")
+
+ 

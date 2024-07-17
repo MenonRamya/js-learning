@@ -1,3 +1,5 @@
+/*Variable*/
+
 const accid=12325
 let username="root"
 var password= "root"
@@ -7,3 +9,5 @@ var password= "root"
 
 console.log(accid)
 console.table([accid,username,password])
+
+/* Datatype */
