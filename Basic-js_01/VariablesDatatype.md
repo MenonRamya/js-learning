@@ -38,8 +38,11 @@ console.log("hi")
 
 let username="ramya" //string
 let password="rae@Rae" //string
-let number=123456789 //number sometimes u use bigInt
-let login=true //boolean either true or false
+let number=123456789 //number sometimes u use bigInt 
+let userLogin=true //boolean either true or false
+ let state = null //null is a standalone value and there is undefined where if u dont define a variable with a value then the value of variable is undefined
+//symbol is used to find unquiness 
 
 
- 
+//object 
+  
