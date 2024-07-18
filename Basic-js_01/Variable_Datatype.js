@@ -11,3 +11,5 @@ console.log(accid)
 console.table([accid,username,password])
 
 /* Datatype */
+
+console.log(typeof(username))

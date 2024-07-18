@@ -32,6 +32,14 @@ console.log("rae"); console.log("hi")
 
 <!-- this is the right way -->
 console.log("rae")
- console.log("hi")
+console.log("hi")
+
+<!-- lets understand about datatype -->
+
+let username="ramya" //string
+let password="rae@Rae" //string
+let number=123456789 //number sometimes u use bigInt
+let login=true //boolean either true or false
+
 
  
