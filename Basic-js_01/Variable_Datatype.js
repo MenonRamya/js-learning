@@ -13,3 +13,6 @@ console.table([accid,username,password])
 /* Datatype */
 
 console.log(typeof(username))
+
+/*dataype conversion */
+

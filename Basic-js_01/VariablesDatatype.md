@@ -43,6 +43,26 @@ let userLogin=true //boolean either true or false
  let state = null //null is a standalone value and there is undefined where if u dont define a variable with a value then the value of variable is undefined
 //symbol is used to find unquiness 
 
-
 //object 
-  
+
+  <!-- conversion -->
+  //"33" -> 33
+  //"33a" -> NaN(not a number)
+  //true/false -> 1/0
+  //Number,Boolean,String need to check with typeof 
+
+
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------
+
+  INTERVIEW PRESPECTIVE
+
+    Primitive & Non Primitive
+
+    Primitive 
+ Number ,  String  , Boolean , null(empty) , undefined , Symbol (make any value unique) , BigInt 
+
+   Non Primitive or Refernce 
+  Array , Objects , Functions 
+
+  Assignment1 :- make examples of each and write it again also understand each datatypes typeof
